@@ -64,9 +64,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"script",
+                 "name":"zone",
                  "type":"string",
-                 "value":"script.js"
+                 "value":"myZone"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -170,7 +170,7 @@
                  "rotation":0,
                  "text":
                     {
-                     "text":"Test 8",
+                     "text":"Test 10",
                      "wrap":true
                     },
                  "type":"",
