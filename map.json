@@ -64,14 +64,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"script",
                  "type":"string",
-                 "value":"iframe.html"
-                }, 
-                {
-                 "name":"openWebsiteAllowApi",
-                 "type":"bool",
-                 "value":true
+                 "value":"script.js"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -175,7 +170,7 @@
                  "rotation":0,
                  "text":
                     {
-                     "text":"Test 6",
+                     "text":"Test 8",
                      "wrap":true
                     },
                  "type":"",
