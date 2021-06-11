@@ -1,2 +1,2 @@
-(()=>{"use strict";console.log("Script started successfully"),WA.sendChatMessage("Bienvenu chez Ilek","Houston")})();
+(()=>{"use strict";console.log("Script started successfully"),WA.sendChatMessage("Bienvenue chez Ilek !","Houston"),WA.sendChatMessage("Ceci est le test 12","Houston")})();
 //# sourceMappingURL=script.js.map

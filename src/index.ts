@@ -4,4 +4,5 @@
 // The "WA" global object is available from anywhere.
 
 console.log('Script started successfully');
-WA.sendChatMessage('Bienvenu chez Ilek', 'Houston');
+WA.sendChatMessage('Bienvenue chez Ilek !', 'Houston');
+WA.sendChatMessage('Ceci est le test 12', 'Houston');
