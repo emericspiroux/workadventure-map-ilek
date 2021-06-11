@@ -1,2 +1,2 @@
-(()=>{"use strict";console.log("Script started successfully"),WA.sendChatMessage("Hello world","Mr Robot")})();
+(()=>{"use strict";console.log("Script started successfully"),WA.sendChatMessage("Hello world","Mr Robot"),WA.onEnterZone("myZone",(()=>{WA.sendChatMessage("You enter inside my zone!","Mr Robot")}))})();
 //# sourceMappingURL=script.js.map
