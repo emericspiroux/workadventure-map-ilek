@@ -43,7 +43,12 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/meet.google.com\/san-fmfv-txt"
+                 "value":"https:\/\/ilek.fr"
+                }, 
+                {
+                 "name":"script",
+                 "type":"string",
+                 "value":"script.js"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -147,7 +152,7 @@
                  "rotation":0,
                  "text":
                     {
-                     "text":"Test 4",
+                     "text":"Test 5",
                      "wrap":true
                     },
                  "type":"",
