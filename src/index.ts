@@ -4,4 +4,4 @@
 // The "WA" global object is available from anywhere.
 
 console.log('Script started successfully');
-WA.openCoWebSite('https://ilek.fr');
+WA.sendChatMessage('Hello world', 'Mr Robot');
